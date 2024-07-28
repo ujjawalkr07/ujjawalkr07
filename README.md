@@ -1,3 +1,4 @@
+![logo](https://github.com/ujjawalkr07/ujjawalkr07/blob/main/giphy.webp)
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
 <h3 align="center">Driven by Curiosity, Perfected by Practice</h3>
 
