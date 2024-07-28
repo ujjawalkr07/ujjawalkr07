@@ -1,4 +1,4 @@
-![logo](https://github.com/ujjawalkr07/ujjawalkr07/blob/main/ai-security-e1644632199505.webp)
+![logo](https://github.com/ujjawalkr07/ujjawalkr07/blob/main/banner-8192025_1280.webp)
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
 <h3 align="center">Driven by Curiosity, Perfected by Practice</h3>
 
