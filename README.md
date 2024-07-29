@@ -1,6 +1,6 @@
 ![logo](https://github.com/ujjawalkr07/ujjawalkr07/blob/main/banner-8192025_1280.webp)
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
-<h3 align="center">Driven by Curiosity, Perfected by Practice</h3>
+<h3 align="center">The more data, the better.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
